@@ -4,6 +4,15 @@
  🌱 I’m currently working to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript
  📚 I am currently reading "HTML And CSS: Design And Build Website" by Jon Duckett
 
+🔍 A bit more about me
+- I recently graduated from Le Wagon's intensive web development bootcamp. My journey into the tech world has been driven by an unrelenting passion for learning and a desire to contribute to a better world through technology.
+  
+- Creating websites and small projects for friends and family has been an absolute joy for me. It's not just about coding; it's about connecting with people and solving real-world problems through technology. This experience has ignited a deep enthusiasm within me.
+  
+- I'm continually striving to improve my coding skills, dedicating time every day to online courses and self-learning. My goal is clear: to translate my passion into a full-time position where I can collaborate with others who share my vision of using technology for positive change.
+  
+- I'm excited about the opportunities that lie ahead and am confident that my dedication and love for coding will drive me to make a meaningful impact in the tech industry.
+
  My Bootcamp Projects: 
  - [AirBnBooks](https://github.com/WillekesMarius/airBnBooks) : An AirBnB clone - for books 
  - [Spark](https://github.com/WillekesMarius/spark) : A mobile app for finding new date recommendations
