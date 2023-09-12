@@ -1,10 +1,12 @@
-Hi 👋, I'm Sophia Banta
-I am a Junior Front-End Developer living in Los Angeles, California
+# Hi 👋, I'm Sophia Banta
+### I am a Junior Front-End Developer living in Los Angeles, California
 
  🌱 I’m currently working to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript
  📚 I am currently reading "HTML And CSS: Design And Build Website" by Jon Duckett
 
- My Bootcamp Projects: [AirBnBooks](https://github.com/WillekesMarius/airBnBooks), [Spark](https://github.com/WillekesMarius/spark) 
+ My Bootcamp Projects: 
+ - [AirBnBooks](https://github.com/WillekesMarius/airBnBooks) : An AirBnB clone - for books 
+ - [Spark](https://github.com/WillekesMarius/spark) : A mobile app for finding new date recommendations
   
 
 📫 How to reach me Sophia.Banta.K@gmail.com
