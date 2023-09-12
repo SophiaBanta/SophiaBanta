@@ -4,7 +4,7 @@ I am a Junior Front-End Developer living in Los Angeles, California
  🌱 I’m currently working to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript
  📚 I am currently reading "HTML And CSS: Design And Build Website" by Jon Duckett
 
- My Bootcamp Projects: [AirBnBooks](https://github.com/WillekesMarius/airBnBooks), [Spark] (https://github.com/WillekesMarius/spark) 
+ My Bootcamp Projects: [AirBnBooks](https://github.com/WillekesMarius/airBnBooks), [Spark](https://github.com/WillekesMarius/spark) 
   
 
 📫 How to reach me Sophia.Banta.K@gmail.com
