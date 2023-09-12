@@ -2,9 +2,10 @@
 ### I am a Junior Front-End Developer living in Los Angeles, California
 
  🌱 I’m currently working to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript
+ 
  📚 I am currently reading "HTML And CSS: Design And Build Website" by Jon Duckett
 
-🔍 A bit more about me
+#### 🔍 A bit more about me
 - I recently graduated from Le Wagon's intensive web development bootcamp. My journey into the tech world has been driven by an unrelenting passion for learning and a desire to contribute to a better world through technology.
   
 - Creating websites and small projects for friends and family has been an absolute joy for me. It's not just about coding; it's about connecting with people and solving real-world problems through technology. This experience has ignited a deep enthusiasm within me.
